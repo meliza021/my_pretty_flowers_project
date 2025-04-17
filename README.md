@@ -5,7 +5,7 @@ Este repositorio es parte de mi camino para convertirme en un desarrollador prof
 🌸 Sobre el proyecto
 Flores Blancas - Celebrando Abril es una pequeña aplicación creada para rendir homenaje a las flores más representativas del mes de abril:
 
-🌼 Margaritas
+🌻 Margaritas
 
 🌿 Guisantes de Olor
 
