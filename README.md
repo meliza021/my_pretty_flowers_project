@@ -1,4 +1,4 @@
-🌼 Proyecto: Flores Blancas - Celebrando Abril con Search Labs 💐
+🌼 Proyecto: Flores Amarillas - Celebrando Abril con Search Labs 💐
 ¡Bienvenido a mi primer proyecto de GitHub!
 Este repositorio es parte de mi camino para convertirme en un desarrollador profesional, demostrando no solo mis habilidades técnicas, sino también mi capacidad de mantener un código limpio, organizado y listo para colaborar.
 
